@@ -1,3 +1,3 @@
-# Thank you for watching video. You can easily download website and use it.
+Thank you to all the sources that helped me build this website.
 
 ### Source: startbootstrap.com
